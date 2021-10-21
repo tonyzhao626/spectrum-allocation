@@ -1,2 +1,11 @@
-# Spectrum Dashboard
-US spectrum allocation charts with 2 tables and gantt charts. Used React as front-end and Node.js, Express as backend
+# Spectrum Allocation Dashboard
+US spectrum allocation dashboard
+It has tables and charts such as gantt charts. 
+
+## Tech Stack
+
+- React
+- Redux
+- Typescript
+- Node.js
+- Express.js
